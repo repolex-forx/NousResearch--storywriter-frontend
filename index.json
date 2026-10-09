@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "storywriter-frontend",
+  "versions": [
+    {
+      "commit": "81ab1a36ebcfc6babb92f979b21ccb497d3e7d0d",
+      "tag": "main",
+      "parsed_at": "2026-10-09T03:48:30.837107+00:00"
+    }
+  ]
+}
