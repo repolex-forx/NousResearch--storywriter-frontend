@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/storywriter-frontend/commit/81ab1a36ebcfc6babb92f979b21ccb497d3e7d0d",
       "git:hexsha": "81ab1a36ebcfc6babb92f979b21ccb497d3e7d0d",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-09T03:48:30.836708+00:00"
     }
   ]
 }
